@@ -1,3 +1,3 @@
 ## Bayes Inference Motion Detector
-This is the code reference to my post [here](https://zero2ml.com/post/2-motion-detector-bayes-inference/)
+Simple demo of motion detection using opencv3 and python. You can read more about it [here](https://khaixcore.com/blog/6-motion-detection-opencv-python/)
 
